@@ -1,0 +1,17 @@
+C:\Users\pc1\Downloads\BookCatalogingSystem\obj\Debug\net8.0-windows\BookCatalogingSystemGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc1\Downloads\BookCatalogingSystem\obj\Debug\net8.0-windows\BookCatalogingSystemGUI.AssemblyInfoInputs.cache
+C:\Users\pc1\Downloads\BookCatalogingSystem\obj\Debug\net8.0-windows\BookCatalogingSystemGUI.AssemblyInfo.cs
+C:\Users\pc1\Downloads\BookCatalogingSystem\obj\Debug\net8.0-windows\BookCatalogingSystemGUI.csproj.CoreCompileInputs.cache
+C:\Users\pc1\Downloads\BookCatalogingSystem\obj\Debug\net8.0-windows\BookCatalogingSystemGUI.csproj.AssemblyReference.cache
+C:\Users\pc1\Downloads\BookCatalogingSystem\bin\Debug\net8.0-windows\BookCatalogingSystemGUI.exe
+C:\Users\pc1\Downloads\BookCatalogingSystem\bin\Debug\net8.0-windows\BookCatalogingSystemGUI.deps.json
+C:\Users\pc1\Downloads\BookCatalogingSystem\bin\Debug\net8.0-windows\BookCatalogingSystemGUI.runtimeconfig.json
+C:\Users\pc1\Downloads\BookCatalogingSystem\bin\Debug\net8.0-windows\BookCatalogingSystemGUI.dll
+C:\Users\pc1\Downloads\BookCatalogingSystem\bin\Debug\net8.0-windows\BookCatalogingSystemGUI.pdb
+C:\Users\pc1\Downloads\BookCatalogingSystem\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\pc1\Downloads\BookCatalogingSystem\obj\Debug\net8.0-windows\BookCata.3D2A79C1.Up2Date
+C:\Users\pc1\Downloads\BookCatalogingSystem\obj\Debug\net8.0-windows\BookCatalogingSystemGUI.dll
+C:\Users\pc1\Downloads\BookCatalogingSystem\obj\Debug\net8.0-windows\refint\BookCatalogingSystemGUI.dll
+C:\Users\pc1\Downloads\BookCatalogingSystem\obj\Debug\net8.0-windows\BookCatalogingSystemGUI.pdb
+C:\Users\pc1\Downloads\BookCatalogingSystem\obj\Debug\net8.0-windows\BookCatalogingSystemGUI.genruntimeconfig.cache
+C:\Users\pc1\Downloads\BookCatalogingSystem\obj\Debug\net8.0-windows\ref\BookCatalogingSystemGUI.dll
