@@ -1,6 +1,4 @@
-# BookCatalogue-dotnet
-
-Running the code.
+Instructions for Running the code.
 
 # To Build the code using dotnet
 `dotnet build`
