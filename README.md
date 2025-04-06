@@ -6,14 +6,14 @@ Instructions for Running the code.
 
    `cd BookCatalogueWeb`
 
-4. Install all the dependencies
+3. Install all the dependencies
 
    `dotnet build`
 
-6. Build the code using dotnet to create binaries which will create the bin folder
- 
-  `dotnet build`
+4. Build the code using dotnet to create binaries which will create the bin folder
 
-7. Execute the code which will spin up on http://localhost:8080
+    `dotnet build`
+
+5. Execute the code which will spin up on http://localhost:8080
 
     `dotnet run`
