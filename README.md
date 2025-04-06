@@ -2,7 +2,7 @@ Instructions for Running the code.
 
 1. Open the Terminal
 
-2. Navigate to the folder containing dotnet files
+2. Navigate to the folder containing dotnet files using `cd BookCatalogueWeb`
 
 3. Install the dotnet 8.0 (LTS)
 
