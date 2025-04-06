@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/shreyacubic/Downloads/Adv-Programming-Project/BookCatalogue-dotnet/BookCatalogueWeb/obj/Debug/net8.0/scopedcss/projectbundle/BookCatalogueWeb.bundle.scp.css",
+      "PackagePath": "staticwebassets/BookCatalogueWeb.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/shreyacubic/Downloads/Adv-Programming-Project/BookCatalogue-dotnet/BookCatalogueWeb/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/shreyacubic/Downloads/Adv-Programming-Project/BookCatalogue-dotnet/BookCatalogueWeb/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/shreyacubic/Downloads/Adv-Programming-Project/BookCatalogue-dotnet/BookCatalogueWeb/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.BookCatalogueWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.BookCatalogueWeb.props",
+      "PackagePath": "build\\BookCatalogueWeb.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.BookCatalogueWeb.props",
+      "PackagePath": "buildMultiTargeting\\BookCatalogueWeb.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.BookCatalogueWeb.props",
+      "PackagePath": "buildTransitive\\BookCatalogueWeb.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

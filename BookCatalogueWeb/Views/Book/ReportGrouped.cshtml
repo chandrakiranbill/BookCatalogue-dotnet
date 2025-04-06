@@ -1,0 +1,44 @@
+@model List<IGrouping<string, BookCatalogueWeb.Models.Book>>
+@{
+    string groupTitle = ViewBag.GroupTitle ?? "Grouped Report";
+}
+
+<div class="main-content">
+    <h2>@groupTitle</h2>
+    <p class="subheading">Grouped view of your books</p>
+
+    @if (!Model.Any())
+    {
+        <p class="text-muted">No books available to group.</p>
+    }
+    else
+    {
+        @foreach (var group in Model)
+        {
+            <div class="report-section">
+                <div class="report-title">@group.Key</div>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Title</th>
+                            <th>Author</th>
+                            <th>Genre</th>
+                            <th>Year</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var book in group)
+                        {
+                            <tr>
+                                <td>@book.Title</td>
+                                <td>@book.Author</td>
+                                <td>@book.Genre</td>
+                                <td>@book.Year</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        }
+    }
+</div>
